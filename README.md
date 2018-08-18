@@ -1,4 +1,5 @@
 [gh-pages](https://shanegibney.github.io/vue-lifecycle-hooks)
+
 [My blog article on this topic](http://www.shanegibney.com/shanegibney/vue-lifecycle-hooks/)
 
 # lifecycle-hooks
