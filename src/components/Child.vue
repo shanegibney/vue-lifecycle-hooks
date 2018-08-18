@@ -2,7 +2,7 @@
   <div>
     <h1>{{ title }}</h1>
     <button @click="alterTitle()">Change title</button>
-    <h2> <a href="">Return to repo</a> </h2>
+    <h2> <a href="https://github.com/shanegibney/vue-lifecycle-hooks">Return to repo</a> </h2>
   </div>
 </template>
 
